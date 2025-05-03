@@ -1,24 +1,20 @@
 <h1 align="center">Hi 👋, I'm Chirag Bajaj</h1>
 <h3 align="center">On a mission to shape the future with intelligent, self-driven AI agents</h3>
 
-<div align="center">
-
-- 🔭 I’m currently working on <strong>multi-agent systems, AI pipelines, and scalable web applications</strong>  
-- 🌱 I’m currently learning <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/">RAGs</a>, <a href="https://www.pinecone.io/">Vector Databases</a>, and <a href="https://ml-ops.org/">MLOps</a>  
-- 🛠️ <strong>Tech Stack:</strong>  
-  <a href="https://www.python.org/">Python</a> • 
-  <a href="https://www.djangoproject.com/">Django</a> • 
-  <a href="https://fastapi.tiangolo.com/">FastAPI</a> • 
-  <a href="https://docs.crewai.com/">CrewAI</a> • 
-  <a href="https://www.langchain.com/">LangChain</a> • 
-  <a href="https://pytorch.org/">PyTorch</a> • 
-  <a href="https://www.tensorflow.org/">TensorFlow</a> • 
-  <a href="https://www.sqlalchemy.org/">SQLAlchemy</a> • 
-  <a href="https://huggingface.co/">HuggingFace</a> • 
-  <a href="https://platform.openai.com/">OpenAI API</a>  
-- 📫 Reach me at <a href="mailto:chiragbajaj2203@gmail.com">chiragbajaj2203@gmail.com</a>
-
-</div>
+- 🔭 I’m currently working on **multi-agent systems, AI pipelines, and scalable web applications**
+- 🌱 I’m currently learning **[RAGs](https://www.pinecone.io/learn/retrieval-augmented-generation/)**, [Vector Databases](https://www.pinecone.io/), and [MLOps](https://ml-ops.org/)
+- 🛠️ Tech Stack: 
+  [Python](https://www.python.org/), 
+  [Django](https://www.djangoproject.com/), 
+  [FastAPI](https://fastapi.tiangolo.com/), 
+  [CrewAI](https://docs.crewai.com/), 
+  [LangChain](https://www.langchain.com/), 
+  [PyTorch](https://pytorch.org/), 
+  [TensorFlow](https://www.tensorflow.org/), 
+  [SQLAlchemy](https://www.sqlalchemy.org/), 
+  [HuggingFace](https://huggingface.co/), 
+  [OpenAI API](https://platform.openai.com/)
+- 📫 Reach me at [chiragbajaj2203@gmail.com](mailto:chiragbajaj2203@gmail.com)
 
 ---
 
@@ -52,24 +48,24 @@
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Most Used Languages 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-bajaj-creator&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-</p>
+Jupyter Notebook    ████████████████████████████████████████████████ 94.0%
+Python              ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4.0%
+JavaScript          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.86%
+HTML                ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1.0%
+CSS                 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.13%
 
 ---
 
-### 📈 GitHub Activity
-
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chirag-bajaj-creator&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chirag-bajaj-creator&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🏆 Achievements
-
 - 🥇 **Top 2%** – National AI Hackathon *(4300+ teams)*
 - 🥈 **Runner-up** – Technovation Showcase 2024
 - 🏅 **Top 8%** – Coding Ninjas Competition *(Rank 1691/20000+)*
@@ -77,7 +73,6 @@
 ---
 
 ### 📫 Let's Connect!
-
 <p align="left">
   <a href="https://www.linkedin.com/in/chiragbajaj04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
