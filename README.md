@@ -59,12 +59,14 @@ CSS               ░                                                  0.13%
   
 </pre>
 ---
-### 📈 GitHub Stats
+
+### 📈 GitHub Activity Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirag-bajaj-creator&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-bajaj-creator&theme=radical" />
 </p>
 
 ---
+
 
 ### 🏆 Achievements
 - 🥇 **Top 2%** – National AI Hackathon *(4300+ teams)*
