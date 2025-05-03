@@ -48,16 +48,17 @@
 
 ---
 
-## 📊 Most Used Languages 
-
-Jupyter Notebook    ████████████████████████████████████████████████ 94.0%
-Python              ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4.0%
-JavaScript          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.86%
-HTML                ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1.0%
-CSS                 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.13%
-
+## 📊 Most Used Languages
+<pre>
+  
+Jupyter Notebook  ████████████████████████████████████████████████  94.0%
+Python            ████                                               4.0%
+JavaScript        ░                                                  1.0%
+HTML              ░                                                  0.86%
+CSS               ░                                                  0.13%
+  
+</pre>
 ---
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chirag-bajaj-creator&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
