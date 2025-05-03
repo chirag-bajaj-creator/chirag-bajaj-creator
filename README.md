@@ -15,7 +15,6 @@
   [HuggingFace](https://huggingface.co/), 
   [OpenAI API](https://platform.openai.com/)
 - 📫 Reach me at [chiragbajaj2203@gmail.com](mailto:chiragbajaj2203@gmail.com)
-- 📄 Know more about my work [Resume](#) *(replace with actual link)*
 
 ---
 
@@ -49,9 +48,8 @@
 
 ---
 
-## 📊 Most Used Languages (Manual)
+## 📊 Most Used Languages 
 
-/ntext/n
 Jupyter Notebook    ████████████████████████████████████████████████ 94.0%
 Python              ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4.0%
 JavaScript          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.86%
