@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **multi-agent systems, AI pipelines, and scalable web applications**
 - 🌱 I’m currently learning **[RAGs](https://www.pinecone.io/learn/retrieval-augmented-generation/)**, [Vector Databases](https://www.pinecone.io/), and [MLOps](https://ml-ops.org/)
-- 🛠️ Tech Stack:  
-  [Python](https://www.python.org/),  
-  [Django](https://www.djangoproject.com/),  
-  [FastAPI](https://fastapi.tiangolo.com/),  
-  [CrewAI](https://docs.crewai.com/),  
-  [LangChain](https://www.langchain.com/),  
-  [PyTorch](https://pytorch.org/),  
-  [TensorFlow](https://www.tensorflow.org/),  
-  [SQLAlchemy](https://www.sqlalchemy.org/),  
-  [HuggingFace](https://huggingface.co/),  
-  [OpenAI API](https://platform.openai.com/)  
+- 🛠️ Tech Stack: 
+  [Python](https://www.python.org/), 
+  [Django](https://www.djangoproject.com/), 
+  [FastAPI](https://fastapi.tiangolo.com/), 
+  [CrewAI](https://docs.crewai.com/), 
+  [LangChain](https://www.langchain.com/), 
+  [PyTorch](https://pytorch.org/), 
+  [TensorFlow](https://www.tensorflow.org/), 
+  [SQLAlchemy](https://www.sqlalchemy.org/), 
+  [HuggingFace](https://huggingface.co/), 
+  [OpenAI API](https://platform.openai.com/)
 - 📫 Reach me at [chiragbajaj2203@gmail.com](mailto:chiragbajaj2203@gmail.com)
 
 ---
@@ -48,16 +48,19 @@
 
 ---
 
-## 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-bajaj-creator&layout=compact&theme=radical" />
-</p>
+## 📊 Most Used Languages 
+
+Jupyter Notebook    ████████████████████████████████████████████████ 94.0%
+Python              ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4.0%
+JavaScript          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.86%
+HTML                ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1.0%
+CSS                 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.13%
 
 ---
 
-### 📈 GitHub Activity Streak
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag-bajaj-creator&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chirag-bajaj-creator&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
 </p>
 
 ---
