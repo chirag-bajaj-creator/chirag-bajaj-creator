@@ -58,10 +58,13 @@ CSS                 ░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirag-bajaj-creator&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chirag-bajaj-creator&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-bajaj-creator&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
