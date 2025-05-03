@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Chirag Bajaj</h1>
 <h3 align="center">On a mission to shape the future with intelligent, self-driven AI agents</h3>
 
-- 🔭 I’m currently working on **multi-agent systems, AI pipelines, and scalable web applications**
-- 🌱 I’m currently learning **[RAGs](https://www.pinecone.io/learn/retrieval-augmented-generation/)**, [Vector Databases](https://www.pinecone.io/), and [MLOps](https://ml-ops.org/)
-- 🛠️ Tech Stack:  
-  [Python](https://www.python.org/),  
-  [Django](https://www.djangoproject.com/),  
-  [FastAPI](https://fastapi.tiangolo.com/),  
-  [CrewAI](https://docs.crewai.com/),  
-  [LangChain](https://www.langchain.com/),  
-  [PyTorch](https://pytorch.org/),  
-  [TensorFlow](https://www.tensorflow.org/),  
-  [SQLAlchemy](https://www.sqlalchemy.org/),  
-  [HuggingFace](https://huggingface.co/),  
-  [OpenAI API](https://platform.openai.com/)
-- 📫 Reach me at [chiragbajaj2203@gmail.com](mailto:chiragbajaj2203@gmail.com)
+<div align="center">
+
+- 🔭 I’m currently working on <strong>multi-agent systems, AI pipelines, and scalable web applications</strong>  
+- 🌱 I’m currently learning <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/">RAGs</a>, <a href="https://www.pinecone.io/">Vector Databases</a>, and <a href="https://ml-ops.org/">MLOps</a>  
+- 🛠️ <strong>Tech Stack:</strong>  
+  <a href="https://www.python.org/">Python</a> • 
+  <a href="https://www.djangoproject.com/">Django</a> • 
+  <a href="https://fastapi.tiangolo.com/">FastAPI</a> • 
+  <a href="https://docs.crewai.com/">CrewAI</a> • 
+  <a href="https://www.langchain.com/">LangChain</a> • 
+  <a href="https://pytorch.org/">PyTorch</a> • 
+  <a href="https://www.tensorflow.org/">TensorFlow</a> • 
+  <a href="https://www.sqlalchemy.org/">SQLAlchemy</a> • 
+  <a href="https://huggingface.co/">HuggingFace</a> • 
+  <a href="https://platform.openai.com/">OpenAI API</a>  
+- 📫 Reach me at <a href="mailto:chiragbajaj2203@gmail.com">chiragbajaj2203@gmail.com</a>
+
+</div>
 
 ---
 
