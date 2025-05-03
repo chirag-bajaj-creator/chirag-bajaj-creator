@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Bajaj</h1>
-<h3 align="center">AI/ML Enthusiast | Software Developer | Multi-Agent Systems Explorer</h3>
+<h3 align="center">On a mission to shape the future with intelligent, self-driven AI agents</h3>
 
 - 🔭 I’m currently working on **multi-agent systems, AI pipelines, and scalable web applications**
 - 🌱 I’m currently learning **[RAGs](https://www.pinecone.io/learn/retrieval-augmented-generation/)**, [Vector Databases](https://www.pinecone.io/), and [MLOps](https://ml-ops.org/)
