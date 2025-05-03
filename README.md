@@ -57,15 +57,32 @@ Python              ████░░░░░░░░░░░░░░░░
 JavaScript          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.86%
 HTML                ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1.0%
 CSS                 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.13%
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chirag-bajaj-creator&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats"/> </p>
 
-🏆 Achievements
-🥇 Top 2% - National AI Hackathon (4300+ teams)
+---
 
-🥈 Runner-up - Technovation Showcase 2024
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chirag-bajaj-creator&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
+</p>
 
-🏅 Top 8% - Coding Ninja Competition (Rank 1691/20000+)
+---
 
-📫 Let's Connect!
-<p align="left"> <a href="https://www.linkedin.com/in/chiragbajaj04/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/chirag-bajaj-creator" target="_blank"> <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:chiragbajaj2203@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> ```
+### 🏆 Achievements
+- 🥇 **Top 2%** – National AI Hackathon *(4300+ teams)*
+- 🥈 **Runner-up** – Technovation Showcase 2024
+- 🏅 **Top 8%** – Coding Ninjas Competition *(Rank 1691/20000+)*
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/chiragbajaj04/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/chirag-bajaj-creator" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:chiragbajaj2203@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
