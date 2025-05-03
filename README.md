@@ -4,10 +4,16 @@
 - 🔭 I’m currently working on **multi-agent systems, AI pipelines, and scalable web applications**
 - 🌱 I’m currently learning **[RAGs](https://www.pinecone.io/learn/retrieval-augmented-generation/)**, [Vector Databases](https://www.pinecone.io/), and [MLOps](https://ml-ops.org/)
 - 🛠️ Tech Stack:  
-  [Python](https://www.python.org/), [Django](https://www.djangoproject.com/), [FastAPI](https://fastapi.tiangolo.com/),  
-  [CrewAI](https://docs.crewai.com/), [LangChain](https://www.langchain.com/), [PyTorch](https://pytorch.org/),  
-  [TensorFlow](https://www.tensorflow.org/), [SQLAlchemy](https://www.sqlalchemy.org/),  
-  [HuggingFace](https://huggingface.co/), [OpenAI API](https://platform.openai.com/)
+  [Python](https://www.python.org/),  
+  [Django](https://www.djangoproject.com/),  
+  [FastAPI](https://fastapi.tiangolo.com/),  
+  [CrewAI](https://docs.crewai.com/),  
+  [LangChain](https://www.langchain.com/),  
+  [PyTorch](https://pytorch.org/),  
+  [TensorFlow](https://www.tensorflow.org/),  
+  [SQLAlchemy](https://www.sqlalchemy.org/),  
+  [HuggingFace](https://huggingface.co/),  
+  [OpenAI API](https://platform.openai.com/)
 - 📫 Reach me at [chiragbajaj2203@gmail.com](mailto:chiragbajaj2203@gmail.com)
 
 ---
@@ -45,7 +51,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-bajaj-creator&langs_count=5&layout=compact&theme=radical&hide=Jupyter%20Notebook&custom_title=Languages%20I%20Work%20With" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-bajaj-creator&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
