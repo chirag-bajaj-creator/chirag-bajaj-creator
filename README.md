@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Bajaj</h1>
-<h3 align="center">On a mission to shape the future with intelligent, self-driven AI agents</h3>
+<h3 align="center">Full-Stack Dev Who Thinks Like a Founder — building and deploying real products across healthcare, education & retail."</h3>
 
 - 🔭 I’m currently working on **multi-agent systems, AI pipelines, and scalable web applications**
 - 🌱 I’m currently learning **[RAGs](https://www.pinecone.io/learn/retrieval-augmented-generation/)**, [Vector Databases](https://www.pinecone.io/), and [MLOps](https://ml-ops.org/)
@@ -51,14 +51,13 @@
 ## 📊 Most Used Languages
 <pre>
   
-Jupyter Notebook  ████████████████████████████████████████████████  94.0%
-Python            ████                                               4.0%
-JavaScript        ░                                                  1.0%
-HTML              ░                                                  0.86%
-CSS               ░                                                  0.13%
+JavaScript        ████████████████████████████████████████░░░░░░░░  62.0%
+TypeScript        ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  18.0%
+HTML              ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10.0%
+CSS               ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6.0%
+Python            ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
   
 </pre>
----
 
 ### 📈 GitHub Activity Streak
 <p align="center">
